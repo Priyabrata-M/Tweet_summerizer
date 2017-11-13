@@ -110,5 +110,3 @@ class SemanticLevelSimilarity(Similarity):
 
     def process_data(self, df):
         print "Data is being processed"
-
-    def compute_similarity(self, df)
